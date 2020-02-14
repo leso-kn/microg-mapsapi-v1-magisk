@@ -1,0 +1,6 @@
+id=mapsapi-v1
+name=Maps API v1
+version=v0.1.0
+versionCode=1
+author=microg Team / Magisk Module by Lesosoftware
+description=Microg FOSS implementation of Google Maps API v1 as Magisk module
