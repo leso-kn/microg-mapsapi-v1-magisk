@@ -11,7 +11,7 @@ Attribution
 -----------
 This won't be possible without the hard work of the guys at [osmdroid](https://github.com/osmdroid).
 
-Magisk Module created by Lesosoftware.
+Magisk Module created by [Lesosoftware](https://github.com/leso-kn).
 
 
 License
